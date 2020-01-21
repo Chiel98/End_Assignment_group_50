@@ -1,0 +1,32 @@
+This python program was made for the Creative Technology module 6 end assignment for the course AI&Programming
+By Chiel Verstappen s1862006 & Desly Elskamp s2013800.
+University of Twente
+21-01-2020
+
+The basic Pacman game was made using the youtube tutorial series 'Pacman in Python' by A Plus Coding.
+Retrieved from: https://www.youtube.com/playlist?list=PLryDJVmh-ww3AMl8NSjp9YygWWTOfePu7
+The maze.png file was also retrieved from these series
+
+The Serial data by Arduino is retrieved from Arduino 1.8.9 software
+The connection guide and code for Arduino was retrieved from the youtube video
+'How to connect and use an Analog Joystick with an Arduino - Tutorial' by Brainy-Bits
+And then adjusted to fit our needs.
+The code for reading the Arduino serial data in python was constructed using the information on the web page:
+https://makersportal.com/blog/2018/2/25/python-datalogger-reading-the-serial-output-from-arduino-to-analyze-data-using-pyserial
+
+The the speech recognition code is based on the information in the youtube video 'Speech Recognition using Python'
+By Get Set Python. Retrieved from: https://www.youtube.com/watch?v=K_WbsFrPUCk
+
+Questions where asked during the AI&Programming tutorials and therefore Ansgar Fehnker and the AI&Programming student assistant's
+indirectly contributed to this program.
+
+Python library's used:
+- pip
+- pygame
+- pyAudio
+- pyserial
+- SpeechRecognition
+- win32core
+- win32compat
+- setuptools
+- keyboard
